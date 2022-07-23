@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+#question {
+  border-left-color: #8e8e8e;
+  border-left-width: thick;
+}
+
+#coach {
+  border-left-color: #8e8e8e;
+  border-left-width: thick;
+}
